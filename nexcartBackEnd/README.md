@@ -38,3 +38,7 @@ Located in `src/main/resources/db`:
 
 ## Docker
 A Dockerfile is included at `Dockerfile` for container deployment.
+
+## Contributors
+- nkroy27
+
