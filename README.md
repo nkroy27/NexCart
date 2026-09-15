@@ -219,3 +219,6 @@ Full deployment instructions are in `DEPLOYMENT.md`.
 - `CONTRIBUTING.md`
 - `FOLDER_STRUCTURE.md`
 - `PROJECT_REPORT.md`
+
+## Contributors
+- nkroy27
